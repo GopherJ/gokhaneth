@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-<!--
-**gokhaneth/gokhaneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 Open to work
-- 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on large projects
-- 🤔 I’m looking for help with Ruby language
-- 💬 Ask me about anything related to Reactjs
-- 📫 How to reach me: gokhaneth@gmail.com
-- 😄 Pronouns: Ether
-- ⚡ Fun fact: Blockchain, DeFi projects, Guitar, Piano, Cook
+My favorite skill sets are:
+- 🔭 React, Node, MongoDB, AWS
+- 🌱 Vue, Laravel, MySQL, AWS
+- 💬 Blockchain, Cryptocurrency, DeFi, dApp
+- 👯 Team work
+- ⚡ Fun fact: Guitar, Piano, Cook
 
 
 <div align="center">
@@ -21,11 +13,11 @@ Here are some ideas to get you started:
         <br>
         <br>
         <br>
-        <!-- <img src="https://raw.githubusercontent.com/anthowen/anthowen/master/tada.svg?sanitize=true" width="60" height="60"> -->
+        <img src="./defi.png">
         <!-- <h3>Hi <i>there!</i> 👋 </h3> -->
         <h4>Gokhan Elma,</h4>
         <h4>Software Engineer,</h4>
-        <!-- <h4>Open to work</h4> -->
+        <h6>Open to work</h4>
         <br>
         <br>
 </div>
