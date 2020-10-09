@@ -13,7 +13,7 @@ My favorite skill sets are:
         <br>
         <br>
         <br>
-        <img src="./defi.png">
+        <!-- <img src="./defi.png"> -->
         <!-- <h3>Hi <i>there!</i> 👋 </h3> -->
         <h4>Gokhan Elma,</h4>
         <h4>Software Engineer,</h4>
