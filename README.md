@@ -25,8 +25,8 @@ My favorite skill sets are:
 <div>
         
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gokhaneth.gokhaneth) &nbsp;&nbsp;
-[![Github](https://img.shields.io/github/followers/gokhaneth.svg?label=GitHub&style=social)](https://github.com/tkcong) &nbsp;&nbsp;
+[![Github](https://img.shields.io/github/followers/gokhaneth.svg?label=GitHub&style=social)](https://github.com/gokhaneth) &nbsp;&nbsp;
 
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkcong&theme=white" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhaneth&theme=white" />
