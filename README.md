@@ -5,7 +5,7 @@ My favorite skill sets are:
 - 🌱 Vue, Laravel, MySQL, AWS
 - 💬 Blockchain, Cryptocurrency, DeFi, dApp
 - 👯 Team work
-- ⚡ Fun fact: Guitar, Piano, Cook
+- ⚡ Fun fact: 👨‍🍳 ⛹️‍♂️
 
 
 <div align="center">
@@ -13,8 +13,6 @@ My favorite skill sets are:
         <br>
         <br>
         <br>
-        <!-- <img src="./defi.png"> -->
-        <!-- <h3>Hi <i>there!</i> 👋 </h3> -->
         <h4>Gokhan Elma,</h4>
         <h4>Software Engineer,</h4>
         <h6>Open to work</h4>
